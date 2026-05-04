@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AlterInstaller</string>
+    <string name="app_description">Spoof Android PackageManager installer fields. Requires root.</string>
+    <string name="label_config">Config (JSON)</string>
+    <string name="label_log">Log</string>
+    <string name="hint_config">Enter package configuration JSON here…</string>
+    <string name="btn_load">Load</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_apply">Apply Now</string>
+    <string name="btn_clear_log">Clear</string>
+</resources>
